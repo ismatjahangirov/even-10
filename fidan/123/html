@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UFT-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>CV</title>
+        <style>
+            body { font-family: Arial, Helvetica, sans-serif; font: size 14px;margi: 20px;;}
+            table{ width: 100%;border-collapse: collapse;margin-bottom: 20px;}
+            th,td { border: 1px solid #777;padding: 8px;text-align: left;}
+        </style>
+
+    </head>
+    <body>
+        
+        <table style="border: 1px solid black;border-collapse: collapse; ">
+               <thead style="background-color: peachpuff;">
+                <tr>
+                    <th>1.Şəxsi məlumat / Personal information</th>
+
+                </tr>
+                
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Ad,Soyad,Ata adi</td>
+                    <td>Fidan Abdullayeva Agasen</td>
+                    <td rowspan="4" width="150">
+                        <table style="border: 1px solid black;" >
+                            <tr><td height="150" width="120"></td></tr>
+                        </table>
+                    </td>
+                </tr>
+
+                           
+
+    
+                <tr>
+                    <td>Doğum yeri və tarixi</td>
+                    <td>Doğum yeri və tarixi: Baki şəhəri, 14 yanvar 2007-ci il</td>
+                </tr>
+                <tr>
+                    <td>Yaşayiş ünvani</td>
+                    <td>Baki şəhəri,Nərimanov rayonu</td>
+                </tr>
+                <tr>
+                    <td>Vətəndaşligi</td>
+                    <td>Azərbaycan</td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+
+            </tbody>
+            </table>
+            <table style="border: 2px solid black;border-collapse: collapse;">
+                <thead style="background-color: peachpuff;">
+                    <tr>
+                        <th>Əlaqə / Contacts</th>
+                    </tr>
+                </thead>
+
+
+
+                <body>
+                    <tr>
+                        <td>Telefon nömrəsi</td>
+                        <td>070-845-81-81</td>
+                                    
+                    </tr>
+                    <tr>
+                        <td>E-poçt ünvani</td>
+                        <td>fidannabd81@gmail.com</td>
+                    </tr>
+                </body>
+           ><table style="border: 2px solid black;border-collapse: collapse;">
+            <thead style="background-color:peachpuff ;">
+
+                <tr>
+                    <th>TƏHSİL / EDUCATION</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Orta məktəbi / Gimnasiya / Lisey</td>
+                    <td>Rayon</td>
+                    
+                </tr>
+                <tr>
+                    <td> 177 sayli tam orta məktəb</td>
+                    <td>Nərimanov rayonu</td>
+                </tr>
+                <tr>
+                    <td>Ali təhsil müəssisəsinin adi</td>
+                    <td>Fakultə / İxtisas</td>
+                    <td>Qəbul olduğu il / Bitirdiyi il</td>
+                    <td>Dərəcə</td>
+                    <td>Daxil olarkən topladiği bal</td>
+                </tr>
+                    <td>Azərbaycan Dövlət Neft və Sənaye Universiteti</td>
+                    <td>IT/Komputer mühəndisliyi</td>
+                    <td>2024-2028</td>
+                    <td>Bakalavr</td>
+                    <td>470</td>
+                <tr>
+            
+            </tbody>
+           </table>            
+                
+
+            </table>
+
+        
+
