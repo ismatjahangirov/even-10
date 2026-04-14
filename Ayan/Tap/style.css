@@ -14,7 +14,7 @@
     display: inline-block;
     margin: 50px;  
     margin: 35px 40px;
-     text-align: center;      /* sağ-sol ortalayır */
+     text-align: center; 
     line-height: 200px; 
     font-size: xx-large;
 }
